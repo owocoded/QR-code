@@ -1,6 +1,10 @@
-           body {
+             body {
         background-color: lightgray;
         place-content: center;
+        display: flex;
+        min-height: 100vh;
+        align-items: center;
+        justify-content: center;
     }
     
     #bg {
@@ -28,6 +32,7 @@
         font-size: 26px;
         text-align: center;
         width: auto;
+        height: 0;
         font-weight: 700;
         padding-top: 0px;
         padding-left: 10%;
@@ -41,6 +46,7 @@
         text-align: center;
         font-weight: 400;
         width: auto;
+        height: 0;
         padding-top: 0%;
         padding-bottom: 9%;
         padding-left: 13%;
@@ -52,10 +58,12 @@
         text-align: center;
         padding-bottom: 5px;
         width: auto;
+        height: 0;
     }
     
     .attribution a {
         color: hsl(228, 45%, 44%);
         padding-bottom: 5px;
         width: auto;
+        height: 0;
     }
