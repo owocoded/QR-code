@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/owocoded/QR-code.git)
 - Live Site URL: (https://owocoded.github.io/QR-code/)m)
 
 ## My process
