@@ -1,10 +1,12 @@
-    body {
+        body {
         background-color: lightgray;
     }
     
     #bg {
         background-color: white;
         border-radius: 2%;
+        width: 360px;
+        height: auto;
         margin-top: 4%;
         margin-bottom: 2%;
         margin-left: 36%;
@@ -45,8 +47,10 @@
     .attribution {
         font-size: 11px;
         text-align: center;
+        padding-bottom: 5px;
     }
     
     .attribution a {
         color: hsl(228, 45%, 44%);
+        padding-bottom: 5px;
     }
