@@ -1,4 +1,4 @@
-        body {
+           body {
         background-color: lightgray;
         place-content: center;
     }
@@ -27,6 +27,7 @@
         font-family: outfit;
         font-size: 26px;
         text-align: center;
+        width: auto;
         font-weight: 700;
         padding-top: 0px;
         padding-left: 10%;
@@ -39,6 +40,7 @@
         font-size: 17px;
         text-align: center;
         font-weight: 400;
+        width: auto;
         padding-top: 0%;
         padding-bottom: 9%;
         padding-left: 13%;
@@ -49,9 +51,11 @@
         font-size: 11px;
         text-align: center;
         padding-bottom: 5px;
+        width: auto;
     }
     
     .attribution a {
         color: hsl(228, 45%, 44%);
         padding-bottom: 5px;
+        width: auto;
     }
